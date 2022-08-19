@@ -1,6 +1,6 @@
 # MeuJogo
 
-<a href="https://rogeriosra.github.io/MeuJogo/index.html">EXECUTAR Meu Jogo</a>
+<a href="https://rogeriosra.github.io/MeuJogo">EXECUTAR Meu Jogo</a>
 <!-- 
  Minha pagina Meu Jogo
  Executar Meu Jogo 
